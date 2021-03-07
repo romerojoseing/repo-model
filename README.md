@@ -1,7 +1,5 @@
 # Repo Model
 
-<br>
-
 ## Author ✒️
 
 _If you like what I do, visit my website and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
